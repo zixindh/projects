@@ -1,4 +1,4 @@
-nodes: [
+var retagEle={nodes: [
 { data: { id: 'K31883' } },
 { data: { id: 'K40330' } },
 { data: { id: 'M10463' } },
