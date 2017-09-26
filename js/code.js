@@ -47,7 +47,7 @@ var cy = cytoscape({
 
     elements: retagEle,
       layout: {
-        name: 'grid',
+        name: 'cose-bilkent',
         directed: true,
         padding: 10
       }
